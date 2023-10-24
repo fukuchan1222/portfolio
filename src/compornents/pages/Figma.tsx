@@ -10,7 +10,11 @@ function Figma() {
               <img src="/images/figma.png" alt="figma ロゴマーク" className='skill-item__img'/>
             </div>
             <p>
-                
+                figmaは2023年3月より使用しています。現職でのデザインツールとしてもfigmaを使用しており、
+                プライベートでもWebデザイン制作の際に使用しております。Webデザインは正直あまり得意ではないですが、
+                デザインの方も勉強していきたいと思っております。以前はPhotshopを使用していましたが、
+                figmaは無料で利用でき、またチームプロジェクトにも向いているため、
+                使い方をマスターしたいと思っております。
             </p>
         </section>
     </main>
