@@ -1,11 +1,11 @@
 import React from 'react';
 import '../../styles/Contact.css';
 
-
 function Contact() {
   return (
     <main>
       <section className='contact'>
+        <p className='note'>※現在こちらからメールを送信することができません。</p>
         <h2 className='contact__title'>お問い合わせはこちら</h2>
         <div className='contact__block'>
           <form className='contact__form'>

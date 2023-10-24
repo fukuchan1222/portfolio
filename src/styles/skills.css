@@ -15,4 +15,9 @@
 .skill-item__img {
   width: 30%;
   display: block;
+}
+.skill-item__link {
+  display: block;
+  text-align: center;
+  text-decoration: none;
 }/*# sourceMappingURL=skills.css.map */

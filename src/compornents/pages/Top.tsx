@@ -36,7 +36,7 @@ function Top() {
                             <dd className='about__cont'>釣り、キャンプ、将棋、麻雀</dd>
                         </div>
                     </dl>
-                    <img src="/images/sample.png" alt="プロフィール画像" className='about__image'/>
+                    <img src="/images/about.jpg" alt="プロフィール画像" className='about__image'/>
                 </div>
                 <p className="about__prof-text">
                         2020年4月からエンジニアを目指し、ブログサイトやYouTubeなどを使い、独学でプログラミングを学びました。
@@ -59,28 +59,28 @@ function Top() {
                             <Link to="/Javascript" className='skill__link'>Javascript</Link>
                         </button>
                         <button className='skill__item'>
-                            <Link to="/" className='skill__link'>typescript</Link>
+                            <Link to="/Typescript" className='skill__link'>Typescript</Link>
                         </button>
                         <button className='skill__item'>
-                            <Link to="/" className='skill__link'>React.js</Link>
+                            <Link to="/Framework" className='skill__link'>React.js</Link>
                         </button>
                         <button className='skill__item'>
-                            <Link to="/" className='skill__link'>Node.js</Link>
+                            <Link to="/Nodejs" className='skill__link'>Node.js</Link>
                         </button>
                         <button className='skill__item'>
-                            <Link to="/" className='skill__link'>Figma</Link>
+                            <Link to="/Figma" className='skill__link'>Figma</Link>
                         </button>
                         <button className='skill__item'>
-                            <Link to="/" className='skill__link'>github</Link>
+                            <Link to="/Github" className='skill__link'>github</Link>
                         </button>
                         <button className='skill__item'>
-                            <Link to="/" className='skill__link'>MONGODB</Link>
+                            <Link to="/Mongodb" className='skill__link'>MONGODB</Link>
                         </button>
                         <button className='skill__item'>
-                            <Link to="/" className='skill__link'>Firebase</Link>
+                            <Link to="/Firebase" className='skill__link'>Firebase</Link>
                         </button>
                         <button className='skill__item'>
-                            <Link to="/" className='skill__link'>Netlify</Link>
+                            <Link to="/Netlify" className='skill__link'>Netlify</Link>
                         </button>
                     </div>
                 </div>
