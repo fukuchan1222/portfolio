@@ -1,0 +1,18 @@
+.skill-item {
+  padding: 4%;
+  height: 100vh;
+}
+.skill-item__title {
+  font-size: 28px;
+}
+.skill-item__images {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 30px;
+}
+.skill-item__img {
+  width: 30%;
+  display: block;
+}/*# sourceMappingURL=skills.css.map */
