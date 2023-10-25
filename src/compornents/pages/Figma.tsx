@@ -7,7 +7,7 @@ function Figma() {
         <section className='skill-item'>
             <h2 className='skill-item__title'>figma</h2>
             <div className='skill-item__images'>
-              <img src="/images/figma.png" alt="figma ロゴマーク" className='skill-item__img'/>
+              <img src="/images/Figma.png" alt="Figma ロゴマーク" className='skill-item__img'/>
             </div>
             <p>
                 figmaは2023年3月より使用しています。現職でのデザインツールとしてもfigmaを使用しており、

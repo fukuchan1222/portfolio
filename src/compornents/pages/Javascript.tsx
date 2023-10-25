@@ -8,7 +8,7 @@ function Javascript() {
         <section className='skill-item'>
             <h2 className='skill-item__title'>Javascript</h2>
             <div className='skill-item__images'>
-              <img src="/images/javascript.png" alt="Javascript ロゴマーク" className='skill-item__img'/>
+              <img src="/images/Javascript.png" alt="Javascript ロゴマーク" className='skill-item__img'/>
             </div>
             <p>
                 Javascriptについては、HTMLとCSSの勉強を一通り終え、2021年ごろから勉強しました。

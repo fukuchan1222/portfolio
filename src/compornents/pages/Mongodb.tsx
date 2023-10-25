@@ -7,7 +7,7 @@ function Mongodb() {
         <section className='skill-item'>
             <h2 className='skill-item__title'>MongoDB</h2>
             <div className='skill-item__images'>
-              <img src="/images/mongodb.png" alt="mongodb ロゴマーク" className='skill-item__img'/>
+              <img src="/images/MongoDB.png" alt="MongoDB ロゴマーク" className='skill-item__img'/>
             </div>
             <p>
                 MongoDBは2023年9月よりnode.jsの勉強の際に使用しています。

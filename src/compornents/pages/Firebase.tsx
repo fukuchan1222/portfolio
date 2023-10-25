@@ -8,7 +8,7 @@ function Firebase() {
         <section className='skill-item'>
             <h2 className='skill-item__title'>Firebase</h2>
             <div className='skill-item__images'>
-              <img src="/images/firebase.png" alt="Firebase ロゴマーク" className='skill-item__img'/>
+              <img src="/images/Firebase.png" alt="Firebase ロゴマーク" className='skill-item__img'/>
             </div>
             <p>
                 FirebaseもMongoDBと同様に、node.jsの勉強の際に使用しています。
